@@ -13,7 +13,7 @@ Unpack into mods' folder.
 default (found in minetest_game)
 
 ## License:
-Check license.md
+Check [license.md](https://github.com/nedzadarek/dn_position/blob/master/license.md)
 
 ## Bug reports:
 https://github.com/nedzadarek/dn_position/issues or on the forum
