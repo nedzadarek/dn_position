@@ -10,7 +10,6 @@ It shows coordinates (x, y & z), angle & symbol for the direction of the world (
 Unpack into mods' folder.
 
 ## Dependencies:
-default (found in minetest_game)
 
 ## License:
 Check [license.md](https://github.com/nedzadarek/dn_position/blob/master/license.md)
