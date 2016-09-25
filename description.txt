@@ -1,0 +1,1 @@
+It shows coordinates (x, y & z), angle & symbol for the direction of the world (North - N, South - S etc.)
